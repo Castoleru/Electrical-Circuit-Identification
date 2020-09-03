@@ -20,8 +20,8 @@ We can see that in the speed plot, near the zero value we have some errors and t
 ![speedInter](https://user-images.githubusercontent.com/41568927/92151412-bec6f080-ee29-11ea-94fa-4fee1d85f800.JPG)
 
 After that step I had selected the data in two categories: 
-*Indentification data ( Red color )
-*Validation data ( Green color )
+1. Indentification data ( Red color )
+2. Validation data ( Green color )
   
 ![DataSelection](https://user-images.githubusercontent.com/41568927/92151813-63493280-ee2a-11ea-8132-4569a2679d0e.JPG)
 
