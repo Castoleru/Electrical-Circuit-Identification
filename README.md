@@ -9,3 +9,8 @@ In this project I identified an electrical circuit which operates an brushless D
 ## Input and output data
 
 In the next image we can see the ploted data which I used to generate an mathemathical model using ARX, ARMAX, IV and OE methods.
+![InputANDoutput data](https://user-images.githubusercontent.com/41568927/92151118-42cca880-ee29-11ea-9349-f05e0ab8d2ae.JPG)
+
+## Using the data
+
+We can see that in the speed plot, near the zero value we have some errors and the best way to solve them is using interpolation like in the next image
