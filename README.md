@@ -20,8 +20,14 @@ We can see that in the speed plot, near the zero value we have some errors and t
 ![speedInter](https://user-images.githubusercontent.com/41568927/92151412-bec6f080-ee29-11ea-94fa-4fee1d85f800.JPG)
 
 After that step I had selected the data in two categories: 
-        *Indentification data ( Red color )
-        *Validation data ( Green color )
+*Indentification data ( Red color )
+*Validation data ( Green color )
   
 ![DataSelection](https://user-images.githubusercontent.com/41568927/92151813-63493280-ee2a-11ea-8132-4569a2679d0e.JPG)
 
+After using all methods and testing then I found two models, one based on intercorrelation and one based on autocorrelation. Here are the models:
+
+![Results](https://user-images.githubusercontent.com/41568927/92152028-ba4f0780-ee2a-11ea-85a5-7b87258ba711.JPG)
+
+
+PS: For more details please read the "(Romanian)Proiect_Identificarea unei axe actionate cu motor BLDC" file. I am sorry because the document is writen in Roamnian, but I will translate it soon.
